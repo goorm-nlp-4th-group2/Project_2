@@ -24,7 +24,7 @@ Goorm 자연어 처리 전문가 양성과정 4기 두 번째 프로젝트
         * 학습용 추가 데이터 조사
     * 임영서
         * 데이터 탐색, XAI 기법 탐색
-        * 멘토님께서 제공해주신 Baseline 분석 및 적용
+        * Competition 예시시 Baseline 분석 및 적용
         * 모델 기반의 입력 문장 길이 제한 극복 방법 탐색 (사전학습 모델의 embedding 재조정)
     * 정재빈
         * Metric(Levenshtein distance) 정보 조사
